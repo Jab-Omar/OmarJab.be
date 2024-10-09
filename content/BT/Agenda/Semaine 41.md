@@ -14,8 +14,7 @@
 ### Après-midi
 
 - **Début du module 5 : Configuration des ACLs pour IPv4**.
-- **Laboratoires pratiques** : Travaux dirigés sur la configuration des ACLs IPv4.
-  - [Accéder au labo ACLs for IPv4 Configuration](https://drive.google.com/drive/folders/1XLfEW7SrM-VEL4Hl9s-CAxs6ItWo40xb?usp=sharing)
+- **Laboratoires pratiques** : Travaux dirigés sur la configuration des ACLs IPv4 :[Accéder au labo ACLs for IPv4 Configuration](https://drive.google.com/drive/folders/1XLfEW7SrM-VEL4Hl9s-CAxs6ItWo40xb?usp=sharing).
 
 ---
 
@@ -28,8 +27,10 @@
 ## Mercredi
 
 ### Matin
-
+- Self-study.
+- Théorie sur la NAT.
 ### Après-midi
+- Self-study.
 
 ---
 
