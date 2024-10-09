@@ -6,10 +6,10 @@
 
 ### Matin
 
-- **Théorie sur les ACLs** : Introduction aux listes de contrôle d'accès.
-- **Théorie et exercices sur les Wildcard Masks** : Explication des masques génériques et exemples pratiques.
-- **Comparaison des ACLs IPv4 vs IPv6** : Différences majeures entre les ACLs pour IPv4 et IPv6.
-- **Lecture du module 4** : Concepts liés aux ACLs (à réviser pour bien comprendre la suite).
+**Théorie sur les ACLs** : Introduction aux listes de contrôle d'accès.
+**Théorie et exercices sur les Wildcard Masks** : Explication des masques génériques et exemples pratiques.
+**Comparaison des ACLs IPv4 vs IPv6** : Différences majeures entre les ACLs pour IPv4 et IPv6.
+**Lecture du module 4** : Concepts liés aux ACLs (à réviser pour bien comprendre la suite).
 
 ### Après-midi
 
