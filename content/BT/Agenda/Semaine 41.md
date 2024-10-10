@@ -1,7 +1,3 @@
-
-
----
-
 ## Lundi, 07 Octobre 2024
 
 ### Matin
@@ -30,6 +26,16 @@
 - Théorie sur la NAT.
 ### Après-midi
 - Self-study.
+
+---
+
+## Jeudi, 09 Octobre 2024
+### Matin
+- Self-study
+
+### Après-midi
+- Self-study
+
 
 ---
 
