@@ -19,7 +19,7 @@ Bienvenue sur notre **Hub de Collaboration**, un espace dédié à la communaut�
 | -------------- | -------------- |
 | [[Semaine 36]] | [[Semaine 40]] |
 | [[Semaine 37]] | [[Semaine 41]] |
-| [[Semaine 38]] |                |
+| [[Semaine 38]] | [[Semaine 42]] |
 | [[Semaine 39]] |                |
 
 

@@ -38,4 +38,7 @@
 
 
 ---
-
+## Vendredi, 10 Octobre 2024
+- Journée Cefora.
+  
+---
