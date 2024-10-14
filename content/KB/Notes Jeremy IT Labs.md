@@ -1,5 +1,5 @@
 - Day 1. [[1. NETWORKING DEVICES|Networking Devices]]
-- Day 2. [[2. INTERFACES AND CABLESs|Interfaces And Cables]]
+- Day 2. [[2. INTERFACES AND CABLES|Interfaces And Cables]]
 - Day 3. [[3. OSI MODEL & TCP_IP SUITE|OSI Model and TCP_IP Suite]]
 - Day 4. [[4. INTRO TO THE CLI|Intro to the CLI]]
 - Day 5. [[5. Ethernet LAN Switching Part 1|Ethernet LAN Switching - Part 1]]
