@@ -27,9 +27,18 @@ Certified in **CCNA** and **ITIL v4**, I have hands-on experience in network adm
 I developed a **Network Knowledge Base** using **Obsidian**, where I organize and document my understanding of key concepts related to network administration and the **CCNA** certification. This personal knowledge base allows me to efficiently take notes in **Markdown** format on various topics such as **OSPF, VLANs, IP addressing**, and troubleshooting techniques.
 
 By consolidating information in this way, I can quickly reference critical networking concepts, making my study process more effective and structured. This project not only enhances my learning but also serves as a valuable resource for others interested in network administration.  
-**[[Network Knowledge Base|View Project]]**
+
+**[[Network Knowledge Base|Discover the Network Knowledge Base →]]**
 
 
+### 💻 Multi-VLAN Packet Tracer Lab
+
+I recently completed a **Multi-VLAN** lab in **Packet Tracer**, focusing on configuring **DHCP** across multiple VLANs in two distinct LAN environments. The lab pushed my networking skills to the limit, testing my knowledge in routing protocols like **OSPF** and advanced network services like **NTP**, **Syslog**, and securing management through **SSH**.
+
+This lab showcases my ability to work with complex network setups and troubleshoot real-world issues related to VLANs, DHCP, and routing.
+
+- View the [[Multi-VLAN with OSPF and Network Services|Packet Tracer Lab]] →
+- Download my [Excel sheet](https://docs.google.com/spreadsheets/d/1qelj3OIkT3ZCXuVmiqebR6FF_rsx-2_r/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true) with all the commands used throughout the lab.
 
 ---
 
