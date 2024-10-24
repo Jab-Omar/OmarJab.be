@@ -3,7 +3,7 @@ date: 2024-12-10
 ---
 
 
- [[Notes Jeremy IT Labs|🔙 Retour à l'index ]]
+ [[Network Knowledge Base|🔙 Retour à l'index ]]
  
 ---
 ## Local Area Networks (LANs)
@@ -218,4 +218,4 @@ When a PC needs to communicate with a device but does not know its MAC address, 
 
 ---
 
- [[Notes Jeremy IT Labs|🔙 Retour à l'index ]]
+ [[Network Knowledge Base|🔙 Retour à l'index ]]

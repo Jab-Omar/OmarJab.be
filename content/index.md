@@ -1,37 +1,44 @@
 ---
-title: Omar Jabali - IT Technician & Aspiring Network Administrator
+title: Omar Jabali – Certified IT Technician & Network Administrator
 ---
-## 🌟 Qui je Suis et Mon Parcours
+# 🌟 Who I Am and My Journey
 
-Bienvenue sur mon site professionnel ! Je suis **Omar Jabali**, un technicien informatique passionné basé à Bruxelles, en transition vers l’administration réseau. Avec une grande passion pour la technologie et une soif constante d'apprentissage, je poursuis activement les certifications **CCNA** et **ITIL** pour devenir un administrateur réseau compétent et efficace.
-
----
-
-## 🛠️ Compétences Clés
-
-En pleine formation pour obtenir les certifications **CCNA** et **ITIL v4**, je me concentre sur l'administration réseau avec pour objectif d'assurer des opérations fluides et sécurisées.
-
-### 🚀 Compétences Techniques:
-- **🔌 Administration Réseau**: Actuellement en cours de certification CCNA et ITIL v4.
-- **🖥️ Gestion des Infrastructures IT**: Surveillance proactive, sauvegardes, mises à jour, et sécurité.
-- **🔧 Support et Maintenance**: Assemblage, configuration, et maintenance de PC.
-- **📊 Outils de Productivité**: Maîtrise de M365, Office, et gestion de base d'Active Directory.
-- **💬 Support Utilisateur**: Assistance technique et résolution de problèmes, sur site et à distance.
+Welcome to my professional site! I am **Omar Jabali**, a certified network administrator based in Brussels. With a **CCNA** and **ITIL v4** certification, I specialize in network administration, focusing on secure and efficient IT operations. I'm passionate about technology and always eager to solve new challenges while contributing to collaborative environments.
 
 ---
 
-## 📝 Projets
+## 🛠️ Key Skills
 
-### 🤝 Business Training Collaboration Hub
+Certified in **CCNA** and **ITIL v4**, I have hands-on experience in network administration and IT infrastructure management, ensuring smooth, secure, and reliable operations.
 
-J'ai développé une plateforme collaborative dédiée à mes camarades de la formation **Admin Réseau CCNA**. Ce hub centralise des ressources essentielles et des informations clés, facilitant le partage et la collaboration au sein du groupe. Grâce à cet outil, chacun peut rester informé et organisé, même en cas d'absence. Un agenda intégré permet de suivre les cours manqués et de se remettre rapidement à jour. [[HUB|Accéder au projet]].
+### 🚀 Technical Skills:
+- **🔌 Network Administration**: Experienced in **configuring Cisco routers and switches**, working with **OSPF, TCP/IP, DHCP, DNS**, and implementing **VLANs, NAT, and ACLs**.
+- **🖥️ IT Infrastructure Management**: Expertise in **system monitoring, backups, and IT security**.
+- **🔧 Support and Maintenance**: Resolved over 40 PC issues, reducing downtime and minimizing costs.
+- **📊 Productivity Tools**: Proficient with **MECM for software deployment**, **Wireshark for network analysis**, and user management with **Active Directory** and **Microsoft 365**.
+- **💬 User Support**: Delivered **technical support** on-site and remotely, providing swift problem resolution.
+
+---
+
+## 📝 Projects
+
+### 📚 Network Knowledge Base
+
+I developed a **Network Knowledge Base** using **Obsidian**, where I organize and document my understanding of key concepts related to network administration and the **CCNA** certification. This personal knowledge base allows me to efficiently take notes in **Markdown** format on various topics such as **OSPF, VLANs, IP addressing**, and troubleshooting techniques.
+
+By consolidating information in this way, I can quickly reference critical networking concepts, making my study process more effective and structured. This project not only enhances my learning but also serves as a valuable resource for others interested in network administration.  
+**[[Network Knowledge Base|View Project]]**
+
+
 
 ---
 
 ## 📬 Contact
 
+Interested in discussing a project or collaboration? Feel free to reach out!
+
 - **📧 Email**: [omar.jabali@proton.me](mailto:omar.jabali@proton.me)
-- **🔗 LinkedIn**: [in/omar-jabali](https://www.linkedin.com/in/omar-jabali)
-- **📄 CV**: [Télécharger Mon CV](https://drive.google.com/file/d/1hXXrPl9pnwWNFWZulbQp7TK5uFiJ8rPM/view?usp=sharing)
+- **🔗 LinkedIn**: [linkedin.com/in/omar-jabali](https://www.linkedin.com/in/omar-jabali)
+- **📄 CV**: [Download My CV](https://drive.google.com/file/d/1enu-1oXOtBGEZ6rnjqz85fNkWkH2RNXX/view?usp=sharing)
 
 ---
